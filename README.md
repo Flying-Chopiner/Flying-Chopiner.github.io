@@ -18,6 +18,19 @@
 
 # 0、工具
 
+## 0）vim/emacs
+
+> 两个学习曲线极其陡峭的文本编辑器
+>
+> 当然你可以扩展成一个跟ide类似的，一堆大神
+>
+> emacs可能会更全面一些
+
+* [vim](https://learnvimscriptthehardway.stevelosh.com/)
+* [emacs](https://www.zhihu.com/column/c_1440829147212279808)
+
+
+
 ## 1）MIT-Missing-Semester
 
 > 计算机教学中消失的一个学期
